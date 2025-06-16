@@ -1,0 +1,23 @@
+BevProg 2022.01.06. Géptermi Vizsga
+
+1.feladat 
+
+A mellékelt beugro program kiegészítése, hogy minden pontot megadjon a program. A programban már adott szöveget nem szabad módosítani, kizárólag a kommentjelzést szabad eltávolítani a main() függvényb?l. Munka közben javasolt folyamatosan haladni ellenoriz() függvényenként a kommentezés eltávolításával. A beugró akkor érvényes, ha minden pontot megkaptál, és nincs semmilyen módosítás a main() függvényben és az ellenoriz() makróban, illetve tilos új #define leírása is. 
+
+Figyelem: beugró nélkül nem értékeljük a második feladatot! 
+
+2. feladat
+
+Az adatsorban programozási nyelvek népszer?ségi adatai vannak havi bontásban. A fájl els? sorában az egyes oszlopok jelentése van, az els? a dátum, és utána jönnek a programozási nyelvek nevei, 28 nyelv van a fájlban. Pluszpontos az a program amelyik nem használja ki a fordítási id?ben ismert nyelvszámot sehol.
+
+A számadatok a vonatkozó oszlophoz tartozó nyelv használatának becsült értéke százalékban, tehát a sorok összege 100 (kerekítési hibákkal)
+
+Feladatok:
+
+a) melyik volt a legnépszer?bb nyelv 2011 augusztusában? (Java) 
+b) melyek azok a nyelvek amik vélhet?en a mért id?szak alatt jöttek létre?
+c) melyik volt a legjobban növeked? nyelv abban az értelemben, hogy a ranglistán csak felfelé mozgott a mért id?szakban, vagy ha ilyen nincs akkor a legkevesebb alkalommal rontott helyezést?
+
+Pontozás:
+
+Az irányadó pontozási forma a következ?: max 10 pont a sikeres beugró, az a) b) c) feladatok m?ködése 10-10-10 pont, a második feladatban használt függvények eleganciája 10 pontig, a rekordok értelmes tervezése szintén 10 pontig értékelhet?, de összesen nem lehet több, mint az a) b) c) m?ködésre adott pontok összege - nem lehet nem m?köd? programra pontot kapni, csak mert szép. 
